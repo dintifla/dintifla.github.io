@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please get in touch for my full CV, or visit my [LinkedIn](www.linkedin.com/in/flavio-d-intino-505937165) profile for more details.
+Please get in touch for my full CV, or visit my [LinkedIn](https://www.linkedin.com/in/flavio-d-intino-505937165) profile for more details.
