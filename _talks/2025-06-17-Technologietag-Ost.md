@@ -16,4 +16,6 @@ It was a great opportunity to share insights into our work and to discuss both t
 
 Many thanks to the team at OST for the warm welcome and the engaging conversations!
 
-[Technologietag 2025 - Künstliche Intelligenz](https://www.ost.ch/de/forschung-und-dienstleistungen/technik/systemtechnik/technologietag-2025/kuenstliche-intelligenz)
+[Technologietag 2025 - Zurück zu Swiss Made: Innovation und Produktion im Fokus](https://www.ost.ch/de/forschung-und-dienstleistungen/technik/systemtechnik/technologietag-2025)
+
+You can view my presentation here: [A Privacy-Aware Web Application for Swiss German and Multilingual Speech Transcription](https://www.ost.ch/fileadmin/dateiliste/3_forschung_dienstleistung/institute/imp/events/technologietag_2025/technologietagost25_dintino.pdf).
