@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Flavio D'Intino / Software Engineer | Researcher "
+title                    : "Flavio D'Intino / Software Engineer | AI Researcher "
 title_separator          : "-"
 name                     : &name "Flavio D'Intino"
 description              : &description "personal description"
